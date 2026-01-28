@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae4a6fea88b43c489b50825860875c1, type: 3}
+  m_Name: TestHelmet
+  m_EditorClassIdentifier: 
+  Name: Helmet
+  Description: A helmet!
+  ID: 19
+  uniqueID: 1202004397
+  extraData: 'MR: 2'
+  extraDataInt: 1
+  cooldown: 0
+  type: 2
+  prefab: {fileID: 4028547960053311376, guid: 8f93e6afbb27f7940bdaca38277b3abd, type: 3}
+  tags: 0800000006000000
+  relatedAction: {fileID: 0}
+  relatedTile: {fileID: 0}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae4a6fea88b43c489b50825860875c1, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  Name: Apple
+  Description: Edible juicy fruit from a tree
+  ID: 21
+  uniqueID: 968689106
+  extraData: 
+  extraDataInt: -2
+  cooldown: 0
+  type: 10
+  prefab: {fileID: 5053245655922530110, guid: efe08a4196ddec84dbcbb33d01c7dce7, type: 3}
+  tags: 03000000
+  relatedAction: {fileID: 11400000, guid: 8cbebc750c566324895820fe22fd40c7, type: 2}
+  relatedTile: {fileID: 0}

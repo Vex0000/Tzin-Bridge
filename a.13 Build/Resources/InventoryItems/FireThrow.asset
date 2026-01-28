@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae4a6fea88b43c489b50825860875c1, type: 3}
+  m_Name: FireThrow
+  m_EditorClassIdentifier: 
+  Name: Fire Punch
+  Description: Punches the enemy so hard that your fist turns the surrounding air
+    into fire!
+  ID: 17
+  uniqueID: 170575415
+  extraData: 'DAMAGE: 5; RANGE: 2;'
+  cooldown: 3
+  type: 8
+  prefab: {fileID: 0}
+  tags: 
+  relatedAction: {fileID: 0}
+  relatedTile: {fileID: 0}

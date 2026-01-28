@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae4a6fea88b43c489b50825860875c1, type: 3}
+  m_Name: Furnace
+  m_EditorClassIdentifier: 
+  Name: Furnace
+  Description: To smelt  and create iron items
+  ID: 12
+  uniqueID: 1053152361
+  extraData: 
+  extraDataInt: 0
+  cooldown: 0
+  type: 4
+  prefab: {fileID: 2865344366333037075, guid: 22b239bb6dd94b24d8e7945619b382f9, type: 3}
+  tags: 04000000
+  relatedAction: {fileID: 11400000, guid: d73ef53d94408dc41adcab18986d0d41, type: 2}
+  relatedTile: {fileID: 11400000, guid: c3f593e3bbbb31e48b0488b4cfced0f1, type: 2}

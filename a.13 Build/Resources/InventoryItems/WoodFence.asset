@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae4a6fea88b43c489b50825860875c1, type: 3}
+  m_Name: WoodFence
+  m_EditorClassIdentifier: 
+  Name: Wood Fence
+  Description: A wooden fence
+  ID: 8
+  uniqueID: 1073873671
+  extraData: 
+  extraDataInt: 0
+  cooldown: 0
+  type: 4
+  prefab: {fileID: 3168663840296308543, guid: 6be49fd687de8e94585db1785ad524fe, type: 3}
+  tags: 0400000005000000
+  relatedAction: {fileID: 11400000, guid: d73ef53d94408dc41adcab18986d0d41, type: 2}
+  relatedTile: {fileID: 11400000, guid: 78f5026ff43953644b3182c25ff3de20, type: 2}

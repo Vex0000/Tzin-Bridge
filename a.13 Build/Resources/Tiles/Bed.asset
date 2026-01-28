@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7007aed9899665f4da9e33d4aa8013ad, type: 3}
+  m_Name: Bed
+  m_EditorClassIdentifier: 
+  sourceObject: {fileID: 3755290903843007486, guid: 58189a23f6291da4bb0d67a6e3a17d63, type: 3}
+  pos: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0, w: 0}
+  relativeTilesTakenUp:
+  - {x: 0, y: 0, z: 0}
+  - {x: 1, y: 0, z: 0}
+  tilePos: {x: 0, y: 0, z: 0}
+  neighbors: []
+  type: 11
+  visible: 0
+  layer: 0
+  spawnedObject: {fileID: 0}
+  tags: 00000000
+  itemsToDrop:
+  - {fileID: 11400000, guid: 7b8f348dbf2a324418c5c89732dfce8d, type: 2}
+  numberOfItemsToDrop:
+  - {x: 1, y: 2}
+  uniqueID: 1592800658

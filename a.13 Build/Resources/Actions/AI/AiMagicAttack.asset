@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9757b79bd42bd274abd474ff8d3c3486, type: 3}
+  m_Name: AiMagicAttack
+  m_EditorClassIdentifier: 
+  type: 3
+  actionPointHourCost: 1
+  actionRange: 4
+  actionCaller: {fileID: 0}
+  actionRecievers: []
+  from: {x: 0, y: 0, z: 0}
+  to: {x: 0, y: 0, z: 0}
+  tags: 00000000
+  requiredTags: []
+  isPrimaryAction: 0
+  ACTIONID: 9
+  isBlockingAction: 0
+  extraData: 
+  extraDataV: {x: 0, y: 0, z: 0}
+  extraDataO: {fileID: 0}
+  extraDataO1: {fileID: 0}

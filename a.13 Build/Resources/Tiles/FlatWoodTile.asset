@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7007aed9899665f4da9e33d4aa8013ad, type: 3}
+  m_Name: FlatWoodTile
+  m_EditorClassIdentifier: 
+  sourceObject: {fileID: 6047710701827454639, guid: 4727b6990c7a7c3419e8078a8c57e7f0, type: 3}
+  pos: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0, w: 0}
+  relativeTilesTakenUp:
+  - {x: 0, y: 0, z: 0}
+  tilePos: {x: 0, y: 0, z: 0}
+  neighbors: []
+  type: 8
+  visible: 0
+  layer: 0
+  spawnedObject: {fileID: 0}
+  tags: 01000000
+  itemsToDrop:
+  - {fileID: 11400000, guid: 3b2970f744b7a9d4c809582a242e0790, type: 2}
+  numberOfItemsToDrop:
+  - {x: 1, y: 2}
+  uniqueID: 1754539188

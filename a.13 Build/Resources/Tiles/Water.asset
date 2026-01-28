@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7007aed9899665f4da9e33d4aa8013ad, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  sourceObject: {fileID: 2745218692150590846, guid: 8bee5b81f595172419c879928ee7c612, type: 3}
+  pos: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0, w: 0}
+  relativeTilesTakenUp:
+  - {x: 0, y: 0, z: 0}
+  tilePos: {x: 0, y: 0, z: 0}
+  neighbors: []
+  type: 4
+  visible: 0
+  layer: 0
+  spawnedObject: {fileID: 0}
+  tags: 00000000
+  itemsToDrop: []
+  numberOfItemsToDrop: []
+  uniqueID: 1093738740
